@@ -1,1 +1,2 @@
 This is my Git class lab.
+I practiced Git branches and GitHub pull requests.
